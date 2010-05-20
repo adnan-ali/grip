@@ -1,11 +1,10 @@
 This gem is out of date and does not work with the newest version of mongomapper. 
 
 Other options:
-Griddle
-http://github.com/toastyapps/griddle.git
 
-Joint
-http://github.com/jnunemaker/joint
+Griddle: http://github.com/toastyapps/griddle.git
+
+Joint: http://github.com/jnunemaker/joint
 
 grip
 ====
